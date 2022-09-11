@@ -1,16 +1,42 @@
-### Hi there 👋
+<p align="center">
+  <img src="img/brick-wall.png" width="100%" alt="Hi! I'm Victor. Welcome to my GitHub page." />
+</p>
 
-<!--
-**panteleevHub/panteleevHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Frontend Developer from Belarus.
+Here you can find some of my projects.
 
-Here are some ideas to get you started:
+### 🧰️ My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS, JavaScript (ES6+), React
+- SCSS
+- Redux / Redux Toolkit
+- Jest, React Testing Library
+- Axios
+- Gulp, Webpack
+- Figma
+
+### 🎓 Currently learning:
+- TypeScript
+
+### 💻 Some of my open source projects:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [What To Watch](https://github.com/panteleevHub/1646641-what-to-watch-10) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux Toolkit, Axios, Jest, Webpack |
+| [Cinemaddict](https://github.com/panteleevHub/1646641-cinemaddict-17) | Online service where you can get detailed information about new movies, create your own watchlist, filter list of movies, add comments and more. | JavaScript, Webpack, Day.js, he (for "HTML entries") |
+| [Keksobooking](https://github.com/panteleevHub/1646641-keksobooking-25) | Service for placing ads for renting real estate in Tokio. Users can place their own ads or view already placed ones. | JavaScript, Pristine, Leaflet, NoUISlider |
+| [Pink](https://github.com/panteleevHub/pink) | "Pink" app website with responsive design. Here you can read about the app, look and edit photos.  | HTML, SCSS, JavaScript, Gulp |
+| [Sedona](https://github.com/panteleevHub/1646641-sedona-22) | Sedona city website with responsive design. | HTML, SCSS, JavaScript, Gulp |
+| [Device](https://github.com/panteleevHub/device) | Online store of devices with an unusual design. | HTML, CSS, JavaScript |
+
+<p align="center">
+  <a href="mailto:panteleevelo357@gmail.com">
+    <img height="30" src="img/gmail-logo.svg">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/panteleev99/">
+    <img height="30" src="img/linkedin-logo.svg">
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/victor_panteleev">
+    <img height="30" src="img/telegram-logo.svg">
+  </a>
+</p>
