@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/brick-wall.png" width="100%" alt="Hi! I'm Victor. Welcome to my GitHub page." />
+  <img src="img/brick-wall.jpg" width="100%" alt="Hi! I'm Victor. Welcome to my GitHub page." />
 </p>
 
 I'm Frontend Developer from Belarus.
