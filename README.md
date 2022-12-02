@@ -7,7 +7,8 @@ Here you can find some of my projects.
 
 ### 🧰️ My tech stack:
 
-- HTML5, CSS, JavaScript (ES6+), React
+- HTML5, CSS, JavaScript (ES6+)
+- React
 - SCSS
 - Redux / Redux Toolkit
 - Jest, React Testing Library
@@ -17,6 +18,7 @@ Here you can find some of my projects.
 
 ### 🎓 Currently learning:
 - TypeScript
+- Vue
 
 ### 💻 Some of my open source projects:
 
