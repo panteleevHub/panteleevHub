@@ -32,7 +32,7 @@ Here you can find some of my projects.
 | [Device](https://github.com/panteleevHub/device) | Online store of devices with an unusual design. | HTML, CSS, JavaScript |
 
 <p align="center">
-  <a href="mailto:panteleevelo357@gmail.com">
+  <a href="mailto:victorPanteleev99@gmail.com">
     <img height="30" src="img/gmail-logo.svg">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/panteleev99/">
