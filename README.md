@@ -8,17 +8,17 @@ Here you can find some of my projects.
 ### 🧰️ My tech stack:
 
 - HTML5, CSS, JavaScript (ES6+)
-- React
+- React, Vue
 - SCSS
-- Redux / Redux Toolkit
+- Redux / Redux Toolkit, Vuex
 - Jest, React Testing Library
 - Axios
-- Gulp, Webpack
+- Gulp, Webpack, Vite
 - Figma
 
 ### 🎓 Currently learning:
 - TypeScript
-- Vue
+- Node.js
 
 ### 💻 Some of my open source projects:
 
